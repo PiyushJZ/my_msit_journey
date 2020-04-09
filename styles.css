@@ -4,3 +4,22 @@
   position: relative;
   left: 45%;
 }
+
+.sp_text {
+  font-family: monospace;
+  font-weight: bold;
+  color: #82FFBF;
+}
+
+#list {
+  color: white;
+  text-align: left;
+  margin-left: 30.7%;
+  font-size: 20px;
+}
+
+h2 {
+  color: white;
+  font-family: copperplate, copperplate gothic light, fantasy;
+  margin-left: 30.7%;
+}
