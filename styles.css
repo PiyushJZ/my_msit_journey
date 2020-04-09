@@ -23,3 +23,20 @@ h2 {
   font-family: copperplate, copperplate gothic light, fantasy;
   margin-left: 30.7%;
 }
+
+table {
+  color: white;
+  margin-left: 30.7%;
+  border-collapse: collapse;
+  border: 2px solid white;
+}
+
+th, td {
+  padding: 5px;
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+form {
+  margin-left: 43%;
+}
